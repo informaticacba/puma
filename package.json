@@ -46,7 +46,7 @@
         "load-grunt-tasks": "3.5.2",
         "node-qunit-phantomjs": "1.6.0",
         "qunitjs": "2.4.1",
-        "webpack": "2.2.1"
+        "webpack": "5.94.0"
     },
     "scripts": {
         "test": "grunt test",
